@@ -12,7 +12,59 @@
       "status_id": 5,
       "published_date": "2019-05-14 00:00:00",
       "created_at": "2019-05-13 10:26:21",
-      "updated_at": "2019-05-14 08:33:37"
+      "updated_at": "2019-05-14 08:33:37",
+      "additional_data": {
+        "banner": {
+          "title": "Afdb supports Nigeria's electrification project with $200m",
+          "url": "https://thenationonlineng.net/afdb-okays-200m-for-nigerias-electrification-project/"
+        },
+        "image": {
+          "description": "Akinwunmi Adesina"
+        }
+      },
+      "like": 1,
+      "bookmark": 1,
+      "media": [
+        {
+          "id": 919,
+          "url": "http://res.cloudinary.com/clane-company-ltd/image/upload/v1557742887/0000792759_resized_akinwumiadesina081120181022.jpg",
+          "media_type": {
+            "id": 1,
+            "type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "topnews",
+          "description": "Tempora totam sit recusandae quis.",
+          "hidden": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Technology",
+          "parent_category": null,
+          "default": true,
+          "status_id": 1,
+          "url": "https://res.cloudinary.com/clane-company-ltd/image/upload/v1550697764/tech.png"
+        },
+        {
+          "id": 5,
+          "name": "Finance",
+          "parent_category": null,
+          "default": false,
+          "status_id": 1,
+          "url": "https://res.cloudinary.com/clane-company-ltd/image/upload/v1550697764/finance.png"
+        }
+      ],
+      "news_source": {
+        "id": 222,
+        "name": "The Nation",
+        "logo_url": "https://logo.clearbit.com/thenationonlineng.net"
+      }
     },
     {
       "id": 4327,
@@ -26,7 +78,59 @@
       "status_id": 5,
       "published_date": "2019-05-14 00:00:00",
       "created_at": "2019-05-13 13:09:26",
-      "updated_at": "2019-05-14 08:33:56"
+      "updated_at": "2019-05-14 08:33:56",
+      "additional_data": {
+        "banner": {
+          "title": "Federal Government moves to recover AMCON's N5tn debt",
+          "url": "https://punchng.com/fg-ll-stop-doing-business-with-amcon-debtors-osinbajo/"
+        },
+        "image": {
+          "description": "Prof. Yemi Osinbajo"
+        }
+      },
+      "like": 4,
+      "bookmark": 5,
+      "media": [
+        {
+          "id": 920,
+          "url": "http://res.cloudinary.com/clane-company-ltd/image/upload/v1557752929/osinbajo_2Bnew.jpg",
+          "media_type": {
+            "id": 1,
+            "type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "topnews",
+          "description": "Tempora totam sit recusandae quis.",
+          "hidden": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 3,
+          "name": "Politics",
+          "parent_category": null,
+          "default": false,
+          "status_id": 1,
+          "url": "https://res.cloudinary.com/clane-company-ltd/image/upload/v1550697764/politics.png"
+        },
+        {
+          "id": 5,
+          "name": "Finance",
+          "parent_category": null,
+          "default": false,
+          "status_id": 1,
+          "url": "https://res.cloudinary.com/clane-company-ltd/image/upload/v1550697764/finance.png"
+        }
+      ],
+      "news_source": {
+        "id": 228,
+        "name": "Punch.ng",
+        "logo_url": "https://logo.clearbit.com/punchng.com"
+      }
     },
     {
       "id": 4325,
@@ -40,7 +144,51 @@
       "status_id": 5,
       "published_date": "2019-05-14 00:00:00",
       "created_at": "2019-05-13 09:37:58",
-      "updated_at": "2019-05-14 08:34:40"
+      "updated_at": "2019-05-14 08:34:40",
+      "additional_data": {
+        "banner": {
+          "title": "Sallah shares Golden Boot win moment with Mane and Aubameyang.",
+          "url": "https://www.livescore.com/soccer/news/liverpool-salah-enjoys-premier-league-golden-boot-win-7-1itxai725xkza1w781ektwjlmk/"
+        },
+        "image": {
+          "description": "Mo Sallah"
+        }
+      },
+      "like": 3,
+      "bookmark": 5,
+      "media": [
+        {
+          "id": 918,
+          "url": "http://res.cloudinary.com/clane-company-ltd/image/upload/v1557740154/960.jpg",
+          "media_type": {
+            "id": 1,
+            "type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "topnews",
+          "description": "Tempora totam sit recusandae quis.",
+          "hidden": false
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "name": "Sports",
+          "parent_category": null,
+          "default": true,
+          "status_id": 1,
+          "url": "https://res.cloudinary.com/clane-company-ltd/image/upload/v1550697764/sports.png"
+        }
+      ],
+      "news_source": {
+        "id": 294,
+        "name": "Live Score",
+        "logo_url": "https://logo.clearbit.com/livescore.com"
+      }
     }
   ]
 }
